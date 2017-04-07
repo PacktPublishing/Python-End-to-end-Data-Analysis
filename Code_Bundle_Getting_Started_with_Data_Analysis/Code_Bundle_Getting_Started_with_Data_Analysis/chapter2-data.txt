@@ -1,0 +1,501 @@
+userId	Device	OS	sex	provinceID
+e726fb69de83a3ec	General_Mobile	Android	unknown	0
+1b8978f618d59eef	General_Mobile	iOS	unknown	0
+8ee82ed6c2c5af59	General_Desktop	Windows XP	male	29
+d0fff09ca1829e65	General_Mobile	Android	female	48
+3126deccaae39ea1	General_Desktop	Windows XP	male	24
+6778d882a1f59b5b	General_Mobile	iOS	female	25
+3f08c939748521fc	General_Desktop	Windows XP	male	29
+494f4c5d15a362f8	General_Desktop	Windows XP	female	24
+0adabfff0b03d6f5	General_Desktop	Windows 7	female	29
+8ef89affe7c22119	General_Desktop	Windows 7	male	24
+b067d625bdeb9203	General_Desktop	Windows XP	unknown	0
+a51016ca5bdb3378	General_Desktop	Windows 7	male	29
+2368014e6a1cba1a	General_Desktop	Windows XP	female	29
+d8b61d997accc4bb	General_Desktop	Windows 7	unknown	0
+49b2d2240e5211f2	General_Desktop	Windows 7	male	24
+83b364ebfe1bd5ca	General_Desktop	Windows XP	female	24
+dd9d9b80c767a84a	General_Desktop	Windows XP	female	24
+4539f04c7e774182	General_Desktop	Windows	unknown	24
+049395bb83c2b77c	General_Desktop	Windows XP	female	29
+959c5281105d40b5	General_Desktop	Windows	female	24
+01af615d3a13f7e3	General_Tablet	Android	female	24
+b669eded2253f2f2	General_Tablet	Android	female	24
+046173f7bb1e1c1f	General_Desktop	Windows XP	male	24
+88f5ad74009013a1	General_Desktop	Windows 7	unknown	0
+2a02be4b4d2c0538	General_Desktop	Windows XP	female	29
+3dd8e0ddc340a869	General_Desktop	Windows 7	female	29
+3d96668f86f20432	General_Mobile	iOS	male	27
+7670c620c71e4b1e	General_Mobile	Android	unknown	0
+b1ae2f5e8b900f0e	General_Desktop	Windows XP	female	9999
+070e296babd8a62f	General_Desktop	Windows XP	female	24
+07c88eee2f35453a	General_Desktop	Windows 7	male	29
+f50ca9033eb56af6	General_Desktop	Windows XP	male	24
+cf13941b7b355634	General_Mobile	iOS	female	29
+1381d44691cbb438	General_Desktop	Windows XP	male	24
+76d2c4bba89282c0	General_Tablet	Android	female	29
+1a2ba1afc3c918b3	General_Mobile	Android	female	24
+f3229abb610325ab	General_Tablet	Android	male	24
+e0cd458ae5116115	General_Desktop	Windows XP	unknown	59
+cad6d17ad855812e	General_Desktop	Windows XP	male	27
+45b527c0027bfe45	General_Mobile	Windows Phone	male	24
+ee6a6ae350b69b6b	General_Mobile	Windows Phone	male	24
+c5c006fb910514e4	General_Mobile	Android	unknown	0
+5c7e39a053ef5a58	General_Mobile	Android	unknown	24
+07449bc888064633	General_Desktop	Mac OS X	female	9999
+226b9a8cde7ff7c0	General_Desktop	Windows XP	unknown	0
+77c185f96d2ddce1	General_Desktop	Windows 7	female	24
+e533f0c2cd26d5cb	General_Mobile	iOS	unknown	24
+a727d3e794ba9aff	General_Desktop	Windows XP	male	29
+c60d33ab286c6279	General_Tablet	iOS	unknown	24
+f2f836cb8b6e97fb	General_Mobile	Android	male	24
+a85190a57f5d8b0b	General_Desktop	Windows 7	female	15
+bb546083bfedef86	General_Desktop	Windows 7	female	24
+3bf44a1c1a29a654	General_Desktop	Windows XP	unknown	24
+b7286048b427dd6a	General_Desktop	Windows XP	female	29
+0a9e2918d4ffe06d	General_Mobile	iOS	male	24
+ea06a880ebee010c	General_Desktop	Windows 7	female	8
+f437d67948365147	General_Tablet	iOS	unknown	24
+9d319ca67a1b499f	General_Tablet	iOS	unknown	0
+0ecc7489de340a5c	General_Desktop	Windows 7	female	29
+9a64a4decdaeae6c	General_Desktop	Windows 7	female	24
+70d7eec2bd970603	General_Desktop	Windows 7	male	24
+18fab45de408c2da	General_Desktop	Windows XP	female	24
+c17da4378c9d6cf1	General_Desktop	Windows XP	female	9999
+c0bf7a4e25d7fb69	General_Desktop	Windows 8	male	24
+51d8f4aa7f65bedf	General_Desktop	Windows XP	male	24
+ef9b9a50638b75ca	General_Desktop	Windows XP	female	49
+6339f6a40e82a84c	General_Mobile	iOS	unknown	29
+5e01298bae93a574	General_Desktop	Windows XP	male	24
+c3591ead1e8d891f	General_Mobile	iOS	unknown	0
+aaca80bb7d4ac189	General_Mobile	iOS	male	24
+1a557f312991b06c	General_Mobile	iOS	male	29
+45a0f65a7582bb23	General_Desktop	Windows 7	male	24
+3c4cfa11dceada10	General_Desktop	Windows XP	unknown	29
+39d0562acd156fa7	General_Desktop	Windows 7	female	24
+7309c0ead8e8ec56	General_Desktop	Windows	female	24
+adf3a9c55e9db6ed	General_Desktop	Windows 7	male	29
+7404899582bb686a	General_Desktop	Windows XP	female	24
+916989e493374ed3	General_Mobile	iOS	unknown	0
+fe20f918858890d4	General_Desktop	Windows 7	male	29
+c2e6104e32ecb94d	General_Desktop	Windows	unknown	24
+a49fcf7a20c78b22	General_Desktop	Windows 7	female	24
+73a5e8b3319e14c7	General_Tablet	iOS	unknown	0
+8f6c80523f8ced6c	General_Desktop	Windows XP	male	29
+6584ef997224448c	General_Mobile	iOS	male	9999
+62c4dd12c9732a86	General_Desktop	Windows XP	unknown	0
+f05b1a0fdabb3240	General_Desktop	Windows 7	male	24
+efa7f1a4b33ff80b	General_Desktop	Windows XP	female	29
+ad1c93c59f960bf2	General_Desktop	Symbian OS	female	24
+9c589107a207781c	General_Desktop	Windows XP	male	29
+2dc951e95e4583fd	General_Mobile	iOS	male	9999
+fdc3b1cfbb829462	General_Tablet	iOS	unknown	24
+0bc1ad2bd40d2bfa	General_Mobile	iOS	unknown	0
+14f3ae9cdd69d157	General_Mobile	iOS	unknown	0
+fb16be8a6cdaa8a4	General_Desktop	Windows 7	unknown	0
+9b84a92fc91b204f	General_Desktop	Windows XP	male	29
+152cc446b213cfc5	General_Tablet	iOS	female	24
+7ffedc670217b036	General_Desktop	Windows 7	unknown	0
+3f8369a8e2e88511	General_Desktop	Windows XP	male	29
+8ef89affe7c22119	General_Desktop	Windows 7	male	24
+f5594ccf6e4e0907	General_Desktop	Windows 7	female	24
+7e8adb21685b96ac	General_Mobile	iOS	female	29
+062b5613f2c3b8e4	General_Desktop	Windows XP	unknown	0
+4622b954521db57d	General_Mobile	iOS	male	24
+f3b81351ae78b6e2	General_Desktop	Windows 7	female	6
+cc4e496cd719e242	General_Desktop	Windows XP	female	58
+41a6d43422909dcb	General_Mobile	iOS	female	13
+6d275620b9c4c48c	General_Desktop	Windows 8	female	24
+74488810b8882980	General_Desktop	Windows XP	female	24
+2dfd5ab514e1fe51	General_Desktop	Windows XP	male	24
+a34d854e8f22ba42	General_Desktop	Windows 7	unknown	24
+e931acb8b24d90ae	General_Mobile	iOS	unknown	0
+66445233f99a0078	General_Desktop	Windows XP	unknown	0
+24d9b588d8055634	General_Desktop	Windows 7	female	24
+b2d8ddd3b37445c6	General_Mobile	iOS	female	29
+25a82fb39412e6f3	General_Desktop	Windows 8	unknown	0
+e7c0fe7ef429eb74	General_Desktop	Windows XP	male	29
+f9db77da32f58dac	General_Desktop	Windows 7	male	2
+4b75db2a2ad020c8	General_Desktop	Windows 7	male	24
+a483fbc1d9709775	General_Desktop	Windows 7	unknown	0
+ea1bbb4231ed3cbd	General_Desktop	Windows 7	male	24
+bbcc1ede25e5a3e8	General_Desktop	Mac OS X	unknown	24
+3ad8a24c329f25d5	General_Mobile	Android	male	24
+2d76597f8e181032	General_Desktop	Windows XP	male	24
+a39c47f54a4a6f81	General_Desktop	Windows 7	female	9999
+1abfef37fc36a0de	General_Mobile	Android	female	24
+45072d2be35fdcb2	General_Desktop	Windows XP	male	29
+046e01f615038a96	General_Desktop	Windows 7	unknown	24
+f25976887600bcb5	General_Tablet	Android	female	24
+3c783400e7024834	General_Mobile	iOS	unknown	24
+2a2300fba71982cd	General_Desktop	Windows 7	male	24
+f3cf620f0351632b	General_Mobile	Android	male	24
+1330c053fa2adca1	General_Desktop	Windows XP	male	24
+06d5c14d1af86bcb	General_Mobile	Android	unknown	24
+5baa90dbbee427ba	General_Mobile	Android	female	31
+4262761ac23ba30d	General_Desktop	Windows 7	unknown	0
+9f78ba411d5d17ee	General_Tablet	iOS	unknown	24
+d28fadfcb8728d39	General_Desktop	Windows 7	male	24
+96c7663a9d0aed11	General_Mobile	Android	female	29
+7edfaccfadb759d5	General_Desktop	Windows 7	male	29
+7ea4b70c1ade54b7	General_Mobile	Android	female	24
+f9b1e8c21c6d5d3c	General_Mobile	Android	male	29
+269efe60fad3be47	General_Desktop	Windows XP	male	24
+0b865355fbbccf90	General_Desktop	Windows XP	unknown	24
+0abe37839f3565d3	General_Desktop	Nokia Series 40	female	24
+e66a62f4a2fd8593	General_Desktop	Windows 7	unknown	0
+98de859c5836eb8d	General_Mobile	Android	female	29
+3dc0e2708db7b8b5	General_Desktop	Windows 7	male	29
+7597bb07fbbcc646	General_Desktop	Windows XP	female	29
+ddd896b5752207d7	General_Desktop	Windows 7	female	24
+5ee707711a0f3de5	General_Desktop	Windows 7	female	29
+ac75de1754a9b101	General_Desktop	Windows XP	female	24
+61c7733309caea33	General_Desktop	Windows XP	male	24
+7536c0f335e8e95e	General_Mobile	iOS	female	24
+82597c0140d26dea	General_Mobile	Android	unknown	24
+426e1adf1a23f1d3	General_Desktop	Windows 7	female	24
+0f0b260d6387e754	General_Desktop	Windows XP	unknown	0
+a6c7580bb04e3e76	General_Mobile	iOS	male	24
+523c3b1ce9e9ffdc	General_Mobile	Android	female	3
+43c84810f0e18e1b	General_Desktop	Windows 7	male	24
+b49399acccb38b60	General_Desktop	Windows 7	female	29
+f31f7acfe9c34d7e	General_Mobile	Android	female	24
+eebda776252568ad	General_Desktop	Windows 7	male	29
+c9470adff0b39885	General_Desktop	Windows 8	female	24
+d6c1d06feb7c7ee0	General_Desktop	Windows 7	female	24
+91fe70e956b0595e	General_Mobile	Android	female	24
+cfbe733a211998fa	General_Mobile	iOS	female	24
+8e961974d4099a63	General_Desktop	Windows 7	male	29
+a71b3cd4de96fc26	General_Desktop	Windows XP	male	47
+569c917c329bac78	General_Mobile	iOS	male	24
+9823441b8a2384c2	General_Desktop	Windows 7	female	24
+9157fb7a29060e1b	General_Mobile	iOS	male	24
+f9a8ce03cbb91c36	General_Desktop	Windows 7	female	29
+e9483c36371a4bef	General_Tablet	iOS	female	29
+7f28e4d709bb1d8b	General_Desktop	Windows 7	female	24
+9b65fa708d3ca95a	General_Desktop	Windows	female	24
+0f8dceb73e495ac5	General_Tablet	iOS	female	24
+0267530269ac9ad5	General_Desktop	Windows 7	female	24
+881e1ceb430d1448	General_Desktop	Windows 7	male	24
+083b9d6537b9ce4e	General_Mobile	Android	unknown	24
+9b298d5a8ef28b77	General_Desktop	Windows 7	unknown	29
+203c40d8e477c837	General_Mobile	iOS	male	55
+d5770ef0c78ee373	General_Mobile	Android	male	9999
+b0b072070de0f3f6	General_Desktop	Windows XP	unknown	47
+e80aa88dbe89cf28	General_Mobile	iOS	male	24
+6a0f484946bb325e	General_Desktop	Windows 7	male	24
+a7deccf9be6369e4	General_Desktop	Windows 7	male	24
+ff4ade28d8a774d4	General_Desktop	Windows XP	female	29
+323acfd4f164cff6	General_Mobile	Windows Phone	female	32
+24332ce140779f83	General_Desktop	Windows 7	female	29
+72e0e40f5c82d963	General_Desktop	Windows 7	male	29
+d4a2fb1cbb1c3dd9	General_Desktop	Windows 7	male	24
+2bbca62ad23a4b1d	General_Desktop	Windows XP	female	24
+748ac4c60471d82b	General_Desktop	Windows 7	male	24
+7b145629b405fa38	General_Mobile	Android	female	24
+1db45dd98f9567be	General_Desktop	Windows XP	male	24
+c3281982d659d5ea	General_Desktop	Windows 7	male	29
+b40f843248cb319a	General_Desktop	Windows 7	male	24
+d681f7c56a83c135	General_Desktop	Windows 7	male	19
+00d792793c7c9e36	General_Desktop	Windows XP	male	24
+8969ab49cfd7ef76	General_Desktop	Windows 7	female	24
+259e4d1079861d42	General_Desktop	Windows 7	male	29
+44acb2eec53ccc78	General_Tablet	iOS	female	29
+858f0497bd38530c	General_Desktop	Windows 7	female	24
+218b0e059b867418	General_Desktop	Windows XP	female	29
+fc6787848513ae5d	General_Tablet	iOS	female	24
+24c2a79435c7789f	General_Desktop	Windows XP	female	24
+819af76d143e48f7	General_Desktop	Windows 7	male	24
+a7ff89dd0917b6ad	General_Desktop	Windows XP	female	9999
+d3ca3813eac37b94	General_Desktop	Windows	unknown	9999
+ae6d8043804b7a75	General_Desktop	Windows 7	unknown	24
+e9083db112b3dfaa	General_Desktop	Windows	female	9999
+7aedfa2810b2064e	General_Desktop	Mac OS X	female	24
+e6b27fdd60d702a2	General_Desktop	Windows XP	unknown	24
+a28c9ce2796bc530	General_Desktop	Windows XP	male	47
+832ed995d1402f66	General_Desktop	Windows XP	male	24
+b176446dc726afd1	General_Desktop	Windows XP	female	24
+9e6f1df8b6e136ba	General_Desktop	Windows 7	unknown	0
+7c8d2998dea6a670	General_Mobile	Android	male	24
+fae07620ef33e911	General_Desktop	Windows 7	female	29
+75e326b8846e1786	General_Mobile	iOS	male	29
+ec4d9f1ded53a49e	General_Desktop	Windows 7	female	9999
+b6f4d9ff28d9a391	General_Mobile	iOS	female	24
+7c69569a0aee8d96	General_Desktop	Windows XP	unknown	0
+4aa4f4413d257a71	General_Tablet	iOS	male	24
+0dac68537ecf6324	General_Desktop	Windows 7	male	24
+9ebe01a0a9f1387f	General_Desktop	Windows 7	female	33
+08fa1d4548ad8915	General_Desktop	Windows XP	unknown	0
+188a4511d8c0d31b	General_Tablet	iOS	unknown	0
+2c6bb652a116d359	General_Mobile	Android	female	13
+3c4435e9e5ef8393	General_Desktop	Windows XP	unknown	0
+a44bf47e4f5b7aa4	General_Desktop	Windows 7	female	29
+8983e2ba3fd2648f	General_Desktop	Windows XP	female	24
+ccf716f3c5c63632	General_Desktop	Windows	female	24
+db21c2ad802287c3	General_Desktop	Windows 7	unknown	9999
+f3f95ebbb9e1b436	General_Mobile	iOS	male	1
+84f00294e8d3faa2	General_Desktop	Windows XP	female	29
+8d980f3eb0904097	General_Desktop	Windows 8	unknown	24
+ff41be17b48ff63b	General_Desktop	Windows 7	male	24
+027fcad23a63546c	General_Desktop	Windows 7	male	29
+4d1c7f3d7a9435f2	General_Desktop	Windows XP	male	47
+c813572d0d1e0500	General_Desktop	Windows XP	female	24
+d13da079658b195d	General_Desktop	Windows XP	female	29
+14cd57f99a954625	General_Desktop	Windows	unknown	24
+bd9fed20fe18f7d2	General_Desktop	Windows 7	female	24
+6581ee0372442ba3	General_Mobile	iOS	unknown	24
+3749dc76348472f1	General_Desktop	Windows XP	unknown	24
+084f4f5980274927	General_Desktop	Windows 7	male	29
+db9fe7e0f6c5f6c3	General_Tablet	iOS	female	13
+8c52baf490b6ccbf	General_Mobile	Android	unknown	24
+dff98e0dc608dcb1	General_Desktop	Windows XP	male	24
+0c3362693458a76e	General_Desktop	Windows XP	male	29
+bc33d9c629ba87ac	General_Desktop	Windows 7	female	29
+56781bc410f2d01f	General_Mobile	Android	female	24
+722f8e739d8e2079	General_Desktop	Windows 7	unknown	34
+6e69fe9217441302	General_Mobile	iOS	male	57
+64180ce51f265cb1	General_Desktop	Windows 7	unknown	29
+3e280ee773488246	General_Desktop	Windows XP	male	29
+0f6e58501a28b235	General_Desktop	Windows 7	male	57
+f60fc56b19aadf5f	General_Mobile	Android	female	24
+d902fc2e46b051be	General_Desktop	Windows XP	female	13
+bdb211b1c5ddb700	General_Desktop	Windows 7	female	29
+7.88101E+15	General_Desktop	Windows 7	unknown	24
+649d14dbc6803e40	General_Mobile	Android	unknown	24
+8a94b2dde95e211c	General_Tablet	Android	male	24
+40abb8f6c40822c7	General_Desktop	Windows 7	unknown	25
+1b90556f973b224f	General_Desktop	Windows XP	unknown	29
+b306a983ce162a34	General_Mobile	Android	unknown	24
+ad30c9568cf1d383	General_Mobile	iOS	female	9999
+b8bebb77a8086d3d	General_Desktop	Windows 8	unknown	24
+50a4710c9f93f65c	General_Desktop	Windows 7	male	38
+12ec1427ef19296c	General_Desktop	Windows XP	unknown	0
+b329f01b83b322c7	General_Desktop	Windows XP	male	24
+5171ea442908c61f	General_Desktop	Windows 7	male	24
+efe24b149120ba5c	General_Desktop	Windows XP	unknown	24
+0efe9db43192e8a0	General_Desktop	Windows XP	unknown	29
+4e6b39b2fc3a2e54	General_Desktop	Windows 8	female	29
+49cefcdc0d0b45ae	General_Mobile	Android	female	25
+e95bd9073e62c329	General_Desktop	Windows XP	female	24
+65b09594b6141d60	General_Desktop	Windows XP	female	9999
+8c40c5f24ae1844d	General_Desktop	Windows 7	male	29
+b06bc943d651b404	General_Desktop	Windows 7	male	58
+f145005c03920489	General_Desktop	Windows XP	unknown	29
+f29f06c876d5c20a	General_Desktop	Windows XP	male	24
+99da7c8e5bb4e423	General_Mobile	iOS	unknown	0
+a0acfc06d2c3828c	General_Mobile	iOS	unknown	0
+063c759f6f2b5a1d	General_Mobile	Android	unknown	29
+413ab69c8951d8dc	General_Desktop	Windows	female	24
+94334617ccf6eaee	General_Mobile	Android	male	24
+37a5ca96cdcb6551	General_Desktop	Windows 7	female	29
+8b37dec38b5454bd	General_Mobile	Android	female	24
+9b25d56d554ae947	General_Desktop	Windows XP	female	29
+471da86ac30d0adb	General_Desktop	Windows 7	unknown	0
+d54b35e757276c93	General_Desktop	Windows 7	unknown	29
+51cccc5c99345f22	General_Mobile	iOS	female	24
+808e69f2af5ca81d	General_Desktop	Windows XP	unknown	0
+33aa7e3241ed3576	General_Mobile	Windows Phone	unknown	0
+9d140320e4f7e716	General_Desktop	Windows XP	female	47
+bafed80bc15f160b	General_Desktop	Windows 7	unknown	24
+0161a5055934870e	General_Desktop	Windows XP	female	29
+2f81ba0ed82b8e40	General_Desktop	Windows 7	male	29
+4b6f515dec6e35f7	General_Mobile	iOS	unknown	13
+e2fc719241922119	General_Mobile	Android	female	29
+1da14cf14996ed90	General_Desktop	Windows XP	unknown	24
+f8e4e2347df22b5b	General_Mobile	Android	male	24
+829b147f26e810d8	General_Mobile	Android	female	9999
+ebbdb4e53347a5d1	General_Desktop	Windows 7	female	24
+b4a7c1fde4a96db4	General_Desktop	Windows XP	female	24
+b988f64a4888ebef	General_Desktop	Other	unknown	24
+9629b2cc8e9d7a63	General_Mobile	Android	unknown	0
+3779cd97b1526044	General_Tablet	iOS	male	29
+ca63787afba71f7b	General_Tablet	iOS	unknown	0
+f9e5b672a76a4e15	General_Desktop	Windows 7	female	29
+f3908e45f4be0601	General_Desktop	Windows 7	female	29
+b762e73bc67ff6ec	General_Mobile	Android	unknown	29
+8633de7f46104739	General_Desktop	Windows XP	unknown	0
+9f442dad174256d8	General_Mobile	Android	male	24
+d12e0b417e5fc2db	General_Desktop	Ubuntu	unknown	9999
+0cc2d46530e66b26	General_Mobile	Android	male	56
+1486f9e10bda963a	General_Desktop	Windows 7	male	15
+a756bbd9f4280f83	General_Desktop	Windows XP	male	24
+83432c429b11c25e	General_Desktop	Windows XP	female	15
+c82edd5ebae75d2f	General_Desktop	Windows 7	male	29
+0583689b4a3b5cba	General_Desktop	Windows XP	female	24
+91f812e14f535791	General_Desktop	Windows 7	unknown	55
+d1b926d32d335d4a	General_Desktop	Windows XP	male	29
+40864a75107ac6fe	General_Desktop	Windows XP	female	6
+1f02d89a2e8a26db	General_Desktop	Windows XP	male	9
+9cc24068032442dd	General_Desktop	Windows XP	male	29
+f7b48dca0fc9b2c0	General_Desktop	Windows XP	male	37
+99f6f1bf7c33869b	General_Mobile	Android	female	24
+7149abc1e229a444	General_Desktop	Windows 7	female	24
+8064d9c9242f5074	General_Mobile	Android	unknown	0
+0f6274535ee0b3dc	General_Mobile	Android	female	3
+a8dac86f3c8434b5	General_Desktop	Windows XP	male	47
+15488cbcbe10cf98	General_Desktop	Windows 7	unknown	29
+45b0aeb8de2cc224	General_Desktop	Windows XP	unknown	24
+6ad13c92b346301b	General_Desktop	Windows 8	unknown	24
+3d81c59713869bce	General_Desktop	Windows XP	male	24
+6bc4d072a2530207	General_Desktop	Windows 8	female	29
+09bf2ecc04427296	General_Desktop	Windows 7	male	29
+d697de0304b3f896	General_Mobile	iOS	female	24
+ba2da70459193308	General_Desktop	Windows XP	female	29
+2159792c8047c3a4	General_Desktop	Windows 7	male	24
+ca72a3f8271c99ae	General_Mobile	Windows Phone	male	9999
+fbed919febfbc817	General_Tablet	Android	female	29
+a2ead12005926aaf	General_Desktop	Windows 7	male	29
+9e8c8ee8b6c6cf35	General_Desktop	Windows XP	female	24
+fcb95cae5b8ecabc	General_Desktop	Windows 7	unknown	0
+0b0fafcddfa1319a	General_Desktop	Windows 7	male	24
+d6dec408cea447f3	General_Desktop	Windows 7	female	29
+078a73e1472d81cf	General_Desktop	Windows XP	male	29
+ba8df8cbf7c5cec1	General_Mobile	Android	female	9999
+2d1e079b55f43391	General_Mobile	Android	unknown	0
+98b1c1c694fa5cc1	General_Desktop	Windows XP	unknown	0
+c993d0c1cf2a4344	General_Desktop	Windows XP	male	29
+723962ac341ad0ea	General_Desktop	Windows 7	female	24
+edb2a0f57ba2f6e0	General_Mobile	iOS	female	29
+23135d8f4acb480d	General_Mobile	Android	female	27
+66fea3e57fb82edb	General_Desktop	Windows XP	female	29
+3dc0c69e8718aa42	General_Mobile	iOS	male	29
+cecc01d3958e05ba	General_Desktop	Windows 7	female	29
+c31e9f856859cef4	General_Desktop	Windows XP	male	24
+43c2488e88a54fa3	General_Desktop	Windows XP	unknown	29
+bf819c19808585c9	General_Mobile	Android	female	29
+0ed6010544776594	General_Desktop	Windows 7	female	29
+fd9b6d1561bcafd1	General_Desktop	Windows XP	female	24
+4269ba23551d4a32	General_Desktop	Windows XP	female	9
+1ea5011a82f8d472	General_Mobile	iOS	male	24
+4eb7b2e5e8f0891d	General_Desktop	Windows 7	unknown	9999
+bb434f5b1b1f1ea7	General_Desktop	Windows 7	female	24
+e0af4fc8445839a9	General_Mobile	Android	female	29
+3f136ece4f8eab4d	General_Desktop	Windows 7	female	9999
+0168e22665c28d17	General_Mobile	Android	unknown	24
+3d9dc2f2a8676876	General_Desktop	Windows 7	female	47
+99a20c16b328aeae	General_Desktop	Windows	female	24
+96840585005c5634	General_Mobile	Android	unknown	56
+896ccee3832cfba5	General_Desktop	Windows 7	male	29
+84e6c4a4e45575ec	General_Desktop	Windows	female	29
+1e7734567c9b6d84	General_Desktop	Windows XP	unknown	24
+dc35cfa1ceb2b5c7	General_Desktop	Windows 7	female	9999
+d8aed35d033105e1	General_Mobile	iOS	female	29
+8a5c1aad09b3ca86	General_Desktop	Windows 7	female	24
+bbf273f8604e31b4	General_Mobile	Android	female	9999
+f2eb2bc09de26b8b	General_Desktop	Windows 7	unknown	24
+3adde3385a52f370	General_Desktop	Windows 7	unknown	24
+d0729b135d369a9d	General_Desktop	Windows 7	female	61
+9e12376f2e491016	General_Mobile	Android	female	24
+42f7d6ecbe5a9965	General_Desktop	Windows 7	male	29
+7e83aebb082f3fdb	General_Desktop	Windows XP	unknown	24
+ac12c4b1efd52a16	General_Desktop	Windows 7	male	29
+f072cbb1a3312c8d	General_Desktop	Windows 7	male	32
+de6fa94e830b0615	General_Desktop	Windows 7	female	24
+42b3957ba7b5c4d9	General_Desktop	Windows XP	female	9999
+ce3c9da190f2c72d	General_Desktop	Windows 7	female	9999
+21d22584564c0d5d	General_Desktop	Mac OS X	female	9999
+711fe9adfd225277	General_Desktop	Windows 7	female	24
+ce6960f8c876e6f2	General_Desktop	Windows 7	female	24
+5fb3b66e3b5a8ea7	General_Mobile	Android	female	24
+75f6dec7fb33597f	General_Mobile	iOS	male	29
+429f0e7267696523	General_Desktop	Windows 7	female	9999
+17289845d33095ec	General_Desktop	Windows 7	female	24
+591ef753f5665edc	General_Tablet	Android	unknown	29
+38797132e6b51fd5	General_Mobile	Android	unknown	24
+d069154d0b209ad8	General_Mobile	Android	female	29
+0651be5283f5bba0	General_Mobile	Windows Phone	female	24
+a4646559b0467660	General_Mobile	Android	female	24
+91c6d5a7a2188659	General_Desktop	Windows 7	female	29
+64180ce51f265cb1	General_Desktop	Windows 7	unknown	29
+304a3b54c2aa3056	General_Desktop	Windows XP	unknown	29
+0d076ccbb544ecb9	General_Mobile	Android	female	24
+2e7bfaaab92d7b28	General_Desktop	Windows XP	unknown	0
+c32e30ea6f610ed0	General_Desktop	Windows XP	unknown	24
+1fc01dd5191745ae	General_Mobile	Windows Phone	female	24
+25f391f0a106bdcb	General_Desktop	Windows 7	female	24
+f1f8b3b2ccf80553	General_Mobile	Android	female	9999
+8b3766dc6c542940	General_Desktop	Windows 7	male	29
+edd31080299f8b1c	General_Desktop	Windows 7	female	29
+6a0da98c2f2bb2a6	General_Desktop	Windows	male	29
+c2812c36f4846fc6	General_Desktop	Windows XP	female	24
+0eafdac75eaafacb	General_Desktop	Windows 7	male	24
+ed08bd3ec08f9f89	General_Mobile	iOS	unknown	0
+9b29190548bb1f95	General_Desktop	Windows 7	female	29
+a1b0b4ce3a24b2b7	General_Desktop	Windows XP	female	24
+d5730fc471b91e53	General_Mobile	iOS	unknown	0
+7837d6b9e7b02f5f	General_Mobile	Android	female	24
+2e32f2c5c56dcf46	General_Mobile	iOS	female	24
+08fd29de14d76f4c	General_Desktop	Windows 7	female	29
+d575b240f4033c4a	General_Desktop	Windows 7	male	29
+0098d9dd0c64e9ae	General_Tablet	iOS	female	24
+a6c79b12d9306561	General_Mobile	Android	female	24
+45a5e589e543b5fc	General_Mobile	Android	female	24
+5a86e75ffb814268	General_Desktop	Windows XP	male	29
+932634cdcb8dfb16	General_Mobile	Android	female	24
+29ba6e2b41992d22	General_Desktop	Windows 7	female	29
+4d97d013728d5299	General_Desktop	Windows XP	unknown	24
+835caf24a0308797	General_Desktop	Windows XP	male	2
+f437362619e98e14	General_Mobile	iOS	female	24
+8d7c7465522543c4	General_Mobile	iOS	female	29
+d88970385d298105	General_Desktop	Windows XP	male	15
+af18094308086864	General_Mobile	iOS	female	24
+03bc5c00ad7b2ac0	General_Desktop	Windows	male	29
+9cd1006542b0c94a	General_Desktop	Windows 7	unknown	7
+49fbc6d175e261f7	General_Desktop	Windows 7	female	29
+8f802ffd2fb89313	General_Desktop	Windows XP	unknown	2
+40c08cbddf56da5c	General_Desktop	Windows 7	unknown	0
+c3b3e698b1ea9e7a	General_Desktop	Windows	female	29
+cf293ad81d04e16f	General_Desktop	Windows	female	24
+eecad77c98509ebf	General_Desktop	Windows XP	female	24
+f2fd6f8964e9da3f	General_Desktop	Windows 7	female	29
+e4fb76648cb61c6c	General_Desktop	Windows 7	male	15
+71c25841ef1c442f	General_Desktop	Windows XP	female	29
+185744826fb195de	General_Desktop	Windows XP	unknown	0
+29eb93c445627a40	General_Mobile	Windows Phone	female	24
+9cb2aea8a1b03c7b	General_Mobile	iOS	female	29
+5e7b21c709fa2187	General_Tablet	iOS	unknown	24
+a8c0089efaa7a083	General_Desktop	Windows XP	female	24
+d24e55f6271ad8a7	General_Desktop	Windows XP	female	9999
+11b5829a614d9eed	General_Desktop	Windows XP	male	29
+ac0a4951f805b257	General_Desktop	Windows XP	female	24
+954ca3abedef1ff6	General_Mobile	Android	female	24
+ef33c295ad04688b	General_Tablet	Android	male	29
+795eec772965532c	General_Desktop	Windows XP	female	9999
+81a0f29bfeecaf2b	General_Mobile	iOS	male	24
+b0760f80d05186ae	General_Desktop	Windows XP	female	24
+301ef6578859866d	General_Mobile	Android	female	24
+693847e99b53302d	General_Desktop	Windows	female	24
+6effa5fd96b23ec9	General_Desktop	Windows XP	female	24
+9abcff7c375cda49	General_Desktop	Windows	female	24
+1bba2daf0f58d9a4	General_Desktop	Windows 7	male	24
+ee57a516f53bce3a	General_Desktop	Windows 7	male	9999
+0d0baecb2cba4a32	General_Desktop	Windows 7	male	24
+59e27def78888db3	General_Desktop	Windows 7	female	24
+e99db62db43ac4ae	General_Desktop	Windows XP	unknown	0
+facd2b74979518a2	General_Desktop	Windows	unknown	24
+308511033caca41a	General_Desktop	Windows 7	female	24
+3c543257e423c280	General_Desktop	Windows XP	unknown	13
+099338b94f1329b4	General_Mobile	Android	female	24
+344b708737110bde	General_Desktop	Windows	female	24
+55ebf811abb78e45	General_Desktop	Windows 7	female	29
+35ce340bafdb0ce4	General_Desktop	Windows XP	male	29
+b56cc3e9310cb39d	General_Desktop	Windows XP	male	29
+3ec68c30960623c6	General_Tablet	iOS	unknown	9999
+ea4f1ed1e5c86d4c	General_Desktop	Windows 7	female	29
+6b18be9967c3557d	General_Desktop	Windows XP	male	24
+0ec0cb019ebf6ec0	General_Desktop	MeeGo	female	27
+31a7782c983f830d	General_Desktop	Windows 7	male	24
+845f4c75f83c71db	General_Desktop	Windows XP	female	29
+276a82a3533ab4fa	General_Desktop	Windows XP	male	24
+33878d4d66f90391	General_Desktop	Windows 8	female	24
+86a7ebaac023e5df	General_Desktop	Windows 7	unknown	0
+0180c4dad17918a4	General_Desktop	Windows 7	male	29
+d916db338b39cfc7	General_Mobile	Windows Phone	female	24
+43ddb516ec6f753b	General_Mobile	Android	female	29
+f1afc20c8271d525	General_Desktop	Windows 8	unknown	24
+e14b0338d88dc251	General_Desktop	Windows 7	female	9999
+c49ad5806ae81317	General_Desktop	Windows 7	unknown	47
+9e388d8e560b44e2	General_Mobile	Android	female	29
+3095548ebea053f1	General_Tablet	iOS	unknown	0
+5012a8d746ea7b42	General_Desktop	Windows XP	female	16
+7f6239ce072d82cd	General_Mobile	Android	female	24

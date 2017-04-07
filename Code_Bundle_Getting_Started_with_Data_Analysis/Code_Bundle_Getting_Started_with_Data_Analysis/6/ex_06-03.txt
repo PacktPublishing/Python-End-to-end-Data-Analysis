@@ -1,0 +1,7 @@
+Nam	7	1	male	hcm
+Mai	11	1	female	hcm
+Lan	25	3	female	hn
+Hung	42	3	male	tn	single
+Nghia	26	3	male	dn	single
+Vinh	39	3	male	vl
+Hong	28	4	female	dn
